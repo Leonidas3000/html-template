@@ -1,6 +1,6 @@
 #!/bin/bash
-TARGET="/home/ubuntu/safe-quiz-app"
-GIT_DIR="/home/ubuntu/safe-quiz-app.git"
+TARGET="/var/www/html/website"
+GIT_DIR="/home/ubuntu/git/website.git"
 
 # Colors
 red='\033[0;31m'
