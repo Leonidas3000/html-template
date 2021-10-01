@@ -2,8 +2,3 @@
 #
 
 GIT_WORK_TREE=/var/www/html/website git checkout -f
-~
-~
-~
-~
-~
